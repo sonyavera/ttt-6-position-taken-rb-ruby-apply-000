@@ -7,4 +7,3 @@ def position_taken?(index)
     true
   end
 end
-
