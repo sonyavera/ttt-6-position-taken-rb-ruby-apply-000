@@ -1,7 +1,7 @@
 # code your #position_taken? method here!
 
-def position_taken?(index)
-  if array[index] == " " || array[index] == ""
+def position_taken?(board, index)
+  if array[board] == " " || array[board] == ""
     false
   else
     true
